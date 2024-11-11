@@ -7,9 +7,9 @@ function App() {
   return (
     <>
       {/* <Header /> */}
-      <p>HEllo!</p>
+      {/* <p>HEllo!</p> */}
       {/* <Footer /> */}
-      <RouterProvider router={routers} />;
+      <RouterProvider router={routers} />
     </>
   );
 }
